@@ -9,10 +9,7 @@ A Google Chrome extension which replaces the default new tab page with a blank s
 
 ## Install
 
-1. Clone this repository somewhere.
-
-        git clone https://github.com/chrismytton/blanktab.git
-
+1. Download a [zip file of the latest code](https://github.com/chrismytton/blanktab/archive/master.zip) or clone this repository onto your computer somewhere.
 2. Open Google Chrome and go to the extensions screen (Window &rarr; Extensions)
 3. Make sure the "Developer mode" switch in the top right is turned **on**.
 4. Click "Load unpacked" in the top left and navigate to the extension.
