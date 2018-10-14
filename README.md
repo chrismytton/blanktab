@@ -1,6 +1,6 @@
 # Blanktab
 
-A Google Chrome extension which replaces the default new tab page with a blank screen. See my blog post [Distraction-free new tab](https://www.chrismytton.uk/2018/10/14/white-tab/) for more details.
+A Google Chrome extension which replaces the default new tab page with a blank screen. See my blog post [Distraction-free new tab](https://www.chrismytton.uk/2018/10/14/distraction-free-new-tab/) for more details.
 
 ## Features
 
